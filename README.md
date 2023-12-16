@@ -1,4 +1,4 @@
-# ⭕ Phono-webpage with image slideshow ⭕
+# ⭕ Phono-webpage with image slideshow 
 
 ## Using HTML,CSS & Javascript
 
